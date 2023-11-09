@@ -1,4 +1,4 @@
-name: Build Maven App with self-hosted runner
+name: Build Maven App with self-hosted
 
 on:
   push:
