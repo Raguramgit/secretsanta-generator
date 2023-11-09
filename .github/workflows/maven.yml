@@ -1,4 +1,4 @@
-name: Build Maven App with self-hosted
+name: Build Maven App with self-hosted vm
 
 on:
   push:
